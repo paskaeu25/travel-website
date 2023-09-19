@@ -5,11 +5,95 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- CSS -->
-    <link rel="stylesheet" href="./assets/css/reset.css" />
+    <link rel="stylesheet" href="./assets/css/normalize.css" />
     <link rel="stylesheet" href="./assets/css/style.css" />
-    <title>Title</title>
+    <title>Dream Travel</title>
   </head>
   <body>
+    <!-- ======== Hero ========== -->
+
+    <section id="hero" class="hero">
+      <div class="container">
+        <!-- Header -->
+        <header>
+          <nav>
+            <h3 class="logo">Dream Travel</h3>
+            <ul>
+              <li>
+                <a href="#hero">Home</a>
+              </li>
+              <li>
+                <a href="#trending">Trending</a>
+              </li>
+              <li>
+                <a href="#destinations">Destinations</a>
+              </li>
+              <li>
+                <a href="#guide">Guide</a>
+              </li>
+              <li>
+                <a href="#client">Client</a>
+              </li>
+            </ul>
+          </nav>
+        </header>
+
+        <!-- Heading -->
+
+        <h1>Explore the beatury of nature</h1>
+        <h1>Discover the new you</h1>
+
+        <!-- Search form -->
+
+        <form action="#">
+          <div class="input-row">
+            <label for="country">Where do you want to go?</label>
+            <input
+              id="country"
+              name="country"
+              type="text"
+              placeholder="Country"
+            />
+          </div>
+          <div class="input-row">
+            <label for="checkIn">Check In</label>
+            <input
+              id="checkIn"
+              name="checkIn"
+              type="date"
+              placeholder="Choose date"
+            />
+          </div>
+          <div class="input-row">
+            <label for="checkOut">Check Out</label>
+            <input
+              id="checkOut"
+              name="checkOut"
+              type="date"
+              placeholder="Choose date"
+            />
+          </div>
+          <div class="input-row">
+            <label for="guests">Guests</label>
+            <input
+              id="guests"
+              name="guests"
+              type="number"
+              placeholder="Number of guests"
+            />
+          </div>
+          <input
+            id="availability"
+            class="btn"
+            type="button"
+            value="CHECK AVAILABILITY"
+          />
+        </form>
+      </div>
+    </section>
+
+    <!-- ======== Trending ========== -->
+
     <script src="./assets/js/main.js"></script>
   </body>
 </html>
