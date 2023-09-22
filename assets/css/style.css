@@ -14,3 +14,12 @@
   width: 40px;
   height: 40px;
 }
+
+.dist-1 {
+  background-image: url('../images/destination-1.jpg');
+}
+
+.section-nav .btn-group button:hover {
+  background-color: #dc3545;
+  color: #fff;
+}
