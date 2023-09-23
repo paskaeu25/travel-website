@@ -1,6 +1,6 @@
 # Travel Destination Website
 
-*Explore and discover the world's most exciting travel destinations on this interactive website.*
+_Explore and discover the world's most exciting travel destinations on this interactive website._
 
 **Link to project:** [Travel Destination Website](https://paskaeu25.github.io/travel-website/)
 
