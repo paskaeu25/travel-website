@@ -15,10 +15,6 @@
   height: 40px;
 }
 
-.dist-1 {
-  background-image: url('../images/destination-1.jpg');
-}
-
 .section-nav .btn-group button:hover {
   background-color: #dc3545;
   color: #fff;
@@ -33,4 +29,15 @@
 .overlay-hover:hover .overlay {
   cursor: pointer;
   opacity: 1;
+}
+
+.video {
+  background-image: url('../images/tour.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.video-negative-margin {
+  margin-bottom: -5rem;
 }
