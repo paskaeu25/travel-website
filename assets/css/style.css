@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-#hero {
+.hero {
   background-image: url('../images/header.jpg');
   background-size: cover;
   background-position: center;
@@ -47,4 +47,8 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+footer a:hover {
+  color: #dc3545;
 }
