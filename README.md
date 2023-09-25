@@ -4,7 +4,8 @@ _Explore and discover the world's most exciting travel destinations on this inte
 
 **Link to project:** [Travel Destination Website](https://paskaeu25.github.io/travel-website/)
 
-![Travel Destination Website Screenshot](https://paskaeu25.github.io/travel-website/screenshot.png)
+![dream-travel-1](https://github.com/paskaeu25/travel-website/assets/60621475/c2e4f4eb-445b-4e2e-b5bc-474092d34310)
+
 
 ## How It's Made:
 
