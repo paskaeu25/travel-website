@@ -41,3 +41,10 @@
 .video-negative-margin {
   margin-bottom: -5rem;
 }
+
+.cta {
+  background-image: url('../images/subscribe.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
